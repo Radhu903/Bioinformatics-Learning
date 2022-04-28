@@ -17,7 +17,4 @@ An S4 class describes a representation of an object with a name and slots (also 
 6. S4 accessors
 Basic information of an S4 object is accessed through accessor-functions, also called methods. As we have seen, a class definition includes slots for describing an object. The function dot-S4methods() used with main classes gives you a summary of its accessors. For other subclasses use the showMethods() function, but this gives you a breakdown, which might be a bit too long to look at. If you want an object summary, use the accessor function show(). You will use some of these accessors in the coming exercises.
 
-7. Let's practice!
-Now it's your turn to use Bioconductor S4 objects and classes! Enjoy!
-
 ```
